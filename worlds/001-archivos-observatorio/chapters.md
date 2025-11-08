@@ -1226,7 +1226,7 @@ Setup          Rising Action       Complications      Resolution
 
 | Entrada | Target Words | Draft Words | Status |
 |---------|--------------|-------------|--------|
-| 1 | 150-200 | 316 | ✅ Complete |
+| 1 | 150-200 | 412 | ✅ Complete |
 | 2 | 100-150 | - | Not Started |
 | 3 | 120-170 | - | Not Started |
 | 4 | 180-250 | - | Not Started |
@@ -1249,7 +1249,7 @@ Setup          Rising Action       Complications      Resolution
 | 21 | 220-290 | - | Not Started |
 | 22 | 300-400 | - | Not Started |
 | 23 | 150-300 | - | Not Started |
-| **Total** | **2,000-4,000** | **316** | **8%** |
+| **Total** | **2,000-4,000** | **412** | **10%** |
 
 ## Review & Acceptance Checklist
 
